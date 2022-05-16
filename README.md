@@ -1,6 +1,6 @@
 ## HugPi
 
-[![NuGet version (Groophy.HugPi)](https://img.shields.io/nuget/v/Groophy.HugPi.svg?style=flat-square)](https://www.nuget.org/packages/Groophy.HugPi/)
+[![NuGet version (Groophy.HugPi)](https://img.shields.io/nuget/v/HugPi.svg?style=flat-square)](https://www.nuget.org/packages/HugPi/)
 
 [Source Code](https://github.com/Groophy-Inc/Groophy.HugPi/blob/main/hugging_api/HugPi.cs)
 
